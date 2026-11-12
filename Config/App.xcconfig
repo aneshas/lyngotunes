@@ -1,0 +1,6 @@
+// Signing and identity for the app target. Do not put your own values here:
+// copy Local.xcconfig.example to Local.xcconfig (git-ignored) and set them there.
+PRODUCT_BUNDLE_IDENTIFIER = io.anes.lyngotunes
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

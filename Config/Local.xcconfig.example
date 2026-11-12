@@ -1,0 +1,8 @@
+// Copy to Local.xcconfig and fill in, then run `xcodegen generate`.
+// Needed only to run on a real iPhone; the Simulator works without it.
+
+// Your Apple developer team id (developer.apple.com > Membership details).
+DEVELOPMENT_TEAM = XXXXXXXXXX
+
+// A bundle id of your own; the default one is registered to the author.
+PRODUCT_BUNDLE_IDENTIFIER = com.example.lyngotunes
