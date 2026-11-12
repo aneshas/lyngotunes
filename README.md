@@ -48,7 +48,7 @@ iOS 17 and later) and [XcodeGen](https://github.com/yonaskolb/XcodeGen).
 
 ```sh
 brew install xcodegen
-git clone <this repo> && cd lyngotunes
+git clone https://github.com/aneshas/lyngotunes.git && cd lyngotunes
 xcodegen generate
 open LyngoTunes.xcodeproj
 ```
